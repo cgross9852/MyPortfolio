@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/ferret.png
 title: "MyWebsite"
 date: 2023-08-08
 published: true
