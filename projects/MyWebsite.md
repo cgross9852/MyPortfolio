@@ -1,7 +1,8 @@
 ---
 layout: project
 type: project
-image: img/ferret.png
+image: MyPortfolio/img
+/ferret.png
 title: "MyWebsite"
 date: 2023-08-08
 published: true
