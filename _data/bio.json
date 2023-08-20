@@ -1,0 +1,92 @@
+{
+  "basics": {
+    "name": "Courtney Gross",
+    "label": "Student",
+    "picture": "https://avatars.githubusercontent.com/u/141455283?s=96&v=4",
+    "email": "cgross9852@my.sullivan.edu",
+    "phone": "502-435-5934",
+    "website": "https://cgross9852.github.io",
+    "summary": "I am studying for an Associates degree in Computer Science in the IT Department at Sullivan University. I expect to graduate in Fall, 2023.",
+    "location": { "123 Summer Springs Rd": "", "postalCode": "40072", "city": "Lousiville", "countryCode": "USA", "region": "Kentucky" },
+    "profiles": [
+      { "network": "github", "username": "cgross9852", "url": "https://github.com/cgross9852" }
+    ]
+  },
+  "interests": [
+    { "name": "Web Design" },
+    { "name": "Adobe Administration" },
+    { "name": "Database Management" }
+  ],
+  "skills": [
+    {
+      "name": "Active Directory Management",
+      "keywords": [ "Members of", "Groups", "Password", "Create User" ]
+    },
+    {
+      "name": "Computer Hardware",
+      "keywords": [ "SetUp", "Hard Drive", "Monitor Config", "Replacement", "iPad Config" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Sullivan University, Lousisville, KY",
+      "area": "Computer Science (expected Fall, 2023)",
+      "studyType": "Associates",
+      "startDate": "2021",
+      "endDate": "2023-09-10",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Zoeller Pump CO.",
+      "position": "HelpDesk",
+      "website": "",
+      "startDate": "2022-03-07",
+      "endDate": "Present",
+      "summary": "Working helpdesk tickets for Zoeller staff",
+      "highlights": [
+        "Maintain, update, and oversee all technical needs of company",
+        "Setupnew users for company"
+      ]
+    },
+    {
+      "company": "Bath and Body Works",
+      "position": "Sales Associate",
+      "website": "",
+      "startDate": "2021-08-27",
+      "endDate": "2021-12-21",
+      "summary": "Good experience for customer service, worked with many different types of customers",
+      "highlights": [
+        "Met many different types of people and heled them pick thier favorite products"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Public Library",
+      "website": "",
+      "position": "Page",
+      "startDate": "2020-05-01",
+      "endDate": "2020-05-30",
+      "summary": "Put books back where they belonged",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Ag Fair 1st Place award",
+      "date": "2019",
+      "awarder": "Spencer County High School",
+      "summary": "Award given for best Agriscience Fair project and demo."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
